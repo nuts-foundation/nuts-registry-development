@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
+    "endpoint": "6bc8273c-c23e-4cac-9f34-8f3359033175"
+  }
+]
