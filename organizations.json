@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "name": "Nedap Healthcare Development",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuyyMO/v+1fZv/8Ee29fe\nDJTwf8p1s/yPILLCt69hNM6CF1J7k4TfW/bl2qlQx2dxw+qOKyQFjPkBdAwJEoa3\nB9PKRPM7Mr2//ETUn8OgAec0aFZicAqAtGtyrN8VtY3bAX+hSwrNH6BTeElRUZMJ\nuUsaCn4qLwo8mIGi/1GbIGr6GR8Fxv4Bg2SJpQktxOz9ut/y5NYUweEpluXn9+hG\njz7uOydUBfAJHmEhNJzXSGz4giwijerzSn4KfOhYKM7PpFYtqtipPfBdpmiLpZH8\nbXUcTVF0hi3Wp6MTN3iFGkD/LdnzJSfZANwPjF3OdEook+NhhOPfL6QTYQlLPGxJ\nXQIDAQAB\n-----END PUBLIC KEY-----"
+  }
+]
