@@ -5,5 +5,12 @@
     "status": "active",
     "version": "3.0.1",
     "URL": "https://development.ons.io/t/fhir"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=Nedap,C=NL,L=Groenlo,CN=nedap_nuts_cordapp_development",
+    "status": "active",
+    "version": "0.10.0",
+    "URL": "tcp://nuts-development.ons.io"
   }
 ]
