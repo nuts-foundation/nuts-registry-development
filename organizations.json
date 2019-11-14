@@ -3,5 +3,10 @@
     "name": "Nedap Healthcare Development",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuyyMO/v+1fZv/8Ee29fe\nDJTwf8p1s/yPILLCt69hNM6CF1J7k4TfW/bl2qlQx2dxw+qOKyQFjPkBdAwJEoa3\nB9PKRPM7Mr2//ETUn8OgAec0aFZicAqAtGtyrN8VtY3bAX+hSwrNH6BTeElRUZMJ\nuUsaCn4qLwo8mIGi/1GbIGr6GR8Fxv4Bg2SJpQktxOz9ut/y5NYUweEpluXn9+hG\njz7uOydUBfAJHmEhNJzXSGz4giwijerzSn4KfOhYKM7PpFYtqtipPfBdpmiLpZH8\nbXUcTVF0hi3Wp6MTN3iFGkD/LdnzJSfZANwPjF3OdEook+NhhOPfL6QTYQlLPGxJ\nXQIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  {
+    "name": "CBoards Development",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12481248",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA25XlsYggeqianbWcr5z1\neC97Y3sSdVAP+KodLFvSj/kVnHl8+ATcYc9bsdTd7dcJpcrWUgjuz3WvLVbZFhEv\nragXlI+kfJNJhjy2mUE2U/eKKCDgQ2xeXDqKDr6S77fhbB+3XL1VqNPi2ShQhbBU\n8roOM+BiACQMj6vNgza8tVoHj/UmATDdFqjmr3WLR+Atg1K8wPZC3us98UCEdIqB\nQF64AfRDNzmBLMycR3pmskIrmnuF8eSE7g3xGpmrdpInA6QU4AkmUvHN36ubCS2M\nkj7h4PEq3JcPkBIDfVb/A/05PN7OZGdCjnu7FKW7glgIEkXDr3AGFuNqt8cb3YFE\n7wIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
