@@ -12,5 +12,12 @@
     "status": "active",
     "version": "0.10.0",
     "URL": "tcp://nuts-development.ons.io"
+  },
+  {
+    "endpointType": "urn:nuts:endpoint:consent",
+    "identifier": "urn:ietf:rfc:1779:O=CBoards,C=NL,L=Groenlo,CN=nuts_experimental-development-cboards",
+    "status": "active",
+    "version": "0.10.0",
+    "URL": "tcp://nuts-development.ons.io"
   }
 ]
