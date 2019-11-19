@@ -8,5 +8,10 @@
     "status": "active",
     "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "endpoint": "urn:ietf:rfc:1779:O=Nedap,C=NL,L=Groenlo,CN=nedap_nuts_cordapp_development"
+  },
+  {
+    "status": "active",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:12481248",
+    "endpoint": "urn:ietf:rfc:1779:O=CBoards,C=NL,L=Groenlo,CN=nuts_experimental-development-cboards"
   }
 ]
