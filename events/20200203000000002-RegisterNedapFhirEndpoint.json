@@ -1,0 +1,10 @@
+{
+  "type": "RegisterEndpointEvent",
+  "payload": {
+    "endpointType": "urn:nuts:endpoint:fhir",
+    "identifier": "6bc8273c-c23e-4cac-9f34-8f3359033175",
+    "status": "active",
+    "version": "3.0.1",
+    "URL": "https://development.ons.io/t/fhir"
+  }
+}

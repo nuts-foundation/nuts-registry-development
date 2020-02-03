@@ -1,0 +1,14 @@
+{
+  "type": "RegisterOrganizationEvent",
+  "payload": {
+    "name": "CBoards Development",
+    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12481248",
+    "keys": [
+      {
+        "kty": "RSA",
+        "n": "25XlsYggeqianbWcr5z1eC97Y3sSdVAP-KodLFvSj_kVnHl8-ATcYc9bsdTd7dcJpcrWUgjuz3WvLVbZFhEvragXlI-kfJNJhjy2mUE2U_eKKCDgQ2xeXDqKDr6S77fhbB-3XL1VqNPi2ShQhbBU8roOM-BiACQMj6vNgza8tVoHj_UmATDdFqjmr3WLR-Atg1K8wPZC3us98UCEdIqBQF64AfRDNzmBLMycR3pmskIrmnuF8eSE7g3xGpmrdpInA6QU4AkmUvHN36ubCS2Mkj7h4PEq3JcPkBIDfVb_A_05PN7OZGdCjnu7FKW7glgIEkXDr3AGFuNqt8cb3YFE7w",
+        "e": "AQAB"
+      }
+    ]
+  }
+}
