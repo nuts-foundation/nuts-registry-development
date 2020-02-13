@@ -1,7 +1,7 @@
 {
   "type": "VendorClaimEvent",
   "payload": {
-    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:00000001",
+    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:08013836",
     "orgName": "Nedap Healthcare Development",
     "orgIdentifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
     "orgKeys": [
