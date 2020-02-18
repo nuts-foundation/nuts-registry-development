@@ -1,9 +1,10 @@
 {
-  "type": "RegisterOrganizationEvent",
+  "type": "VendorClaimEvent",
   "payload": {
-    "name": "Nedap Healthcare Development",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
-    "keys": [
+    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:08013836",
+    "orgName": "Nedap Healthcare Development",
+    "orgIdentifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
+    "orgKeys": [
       {
         "kty": "RSA",
         "n": "uyyMO_v-1fZv_8Ee29feDJTwf8p1s_yPILLCt69hNM6CF1J7k4TfW_bl2qlQx2dxw-qOKyQFjPkBdAwJEoa3B9PKRPM7Mr2__ETUn8OgAec0aFZicAqAtGtyrN8VtY3bAX-hSwrNH6BTeElRUZMJuUsaCn4qLwo8mIGi_1GbIGr6GR8Fxv4Bg2SJpQktxOz9ut_y5NYUweEpluXn9-hGjz7uOydUBfAJHmEhNJzXSGz4giwijerzSn4KfOhYKM7PpFYtqtipPfBdpmiLpZH8bXUcTVF0hi3Wp6MTN3iFGkD_LdnzJSfZANwPjF3OdEook-NhhOPfL6QTYQlLPGxJXQ",
