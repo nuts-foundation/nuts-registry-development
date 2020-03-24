@@ -1,0 +1,15 @@
+{
+  "type": "VendorClaimEvent",
+  "payload": {
+    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:14105430",
+    "orgName": "Test Clinic A",
+    "orgIdentifier": "urn:oid:2.16.840.1.113883.2.4.6.1:56344567",
+    "orgKeys": [
+      {
+        "e":"AQAB",
+        "kty":"RSA",
+        "n":"ngKDhATwZ811NqFMhuKGWIpKYmVKh0gX0p050mto2-D9BRs-wwkI83AOw_woLZzt_sV8DOIs8PQmIVeYJAhk2Z3JKpeZ_TnpfYhgY-vv7A8O5i3jiS3iIXdavdIFTvVeTDcYsZA3IODtHErUj1qZ_OF4BhlEbH2O_lVEBJLrIoatQDM4SMx9LdWlNh2VAH2TvruTHrxy5EpPygedvXd800GE5pnSr_5yupTTMDhHY3nb2vYr6YoCM84I4zv5GhYepSkMYYz6Jp950yDrJzNPLJlNlN0BIfVsE5bnKXaXsxC-7s5ootn_A3MZaH1DYUkR7D6RIpv-ay_KaNPgKPLe_w"
+      }
+    ]
+  }
+}
