@@ -1,0 +1,15 @@
+{
+  "type": "VendorClaimEvent",
+  "payload": {
+    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:14105430",
+    "orgName": "Share and Care Clinic",
+    "orgIdentifier": "urn:oid:2.16.840.1.113883.2.4.6.1:45344478",
+    "orgKeys": [
+      {
+        "e":"AQAB",
+        "kty":"RSA",
+        "n":"2WPuNIh_bGIDDr3CDT6a1dj3zRWPsgyCHhyNczXQtNER00TnPmbbPP71KY1xV_zA1nbJZZp0B7hnKDEvL_EDNCFzCsjIu5uydrlH4jnY02pGSBIEO-fxBOKLFR2s-Bf91HhJfLj1i-W3mMo3nrLeSaghidCIS1REyaTuxpdH2NsoMvuUTrpKA3TJ_43HTKzYUZjPDvJO6bnOybRbr4MBF6RCb8YX9R9KvOo2Xiwz6GUjSFgNrWuWV2qk5uSgk0j6pksZUKKrH9s5Tmoipq9vE0ZGpgkq0mBxWWExIUBoPuwQwF2spf5dnJpMsaBksd8uA2Vx43hgI_c5ACtOtY7WoQ"
+      }
+    ]
+  }
+}
