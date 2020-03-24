@@ -8,15 +8,5 @@
     "name": "CBoards Development",
     "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:12481248",
     "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA25XlsYggeqianbWcr5z1\neC97Y3sSdVAP+KodLFvSj/kVnHl8+ATcYc9bsdTd7dcJpcrWUgjuz3WvLVbZFhEv\nragXlI+kfJNJhjy2mUE2U/eKKCDgQ2xeXDqKDr6S77fhbB+3XL1VqNPi2ShQhbBU\n8roOM+BiACQMj6vNgza8tVoHj/UmATDdFqjmr3WLR+Atg1K8wPZC3us98UCEdIqB\nQF64AfRDNzmBLMycR3pmskIrmnuF8eSE7g3xGpmrdpInA6QU4AkmUvHN36ubCS2M\nkj7h4PEq3JcPkBIDfVb/A/05PN7OZGdCjnu7FKW7glgIEkXDr3AGFuNqt8cb3YFE\n7wIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Test Clinic A",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:56344567",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAngKDhATwZ811NqFMhuKG\nWIpKYmVKh0gX0p050mto2+D9BRs+wwkI83AOw/woLZzt/sV8DOIs8PQmIVeYJAhk\n2Z3JKpeZ/TnpfYhgY+vv7A8O5i3jiS3iIXdavdIFTvVeTDcYsZA3IODtHErUj1qZ\n/OF4BhlEbH2O/lVEBJLrIoatQDM4SMx9LdWlNh2VAH2TvruTHrxy5EpPygedvXd8\n00GE5pnSr/5yupTTMDhHY3nb2vYr6YoCM84I4zv5GhYepSkMYYz6Jp950yDrJzNP\nLJlNlN0BIfVsE5bnKXaXsxC+7s5ootn/A3MZaH1DYUkR7D6RIpv+ay/KaNPgKPLe\n/wIDAQAB\n-----END PUBLIC KEY-----"
-  },
-  {
-    "name": "Share and Care Clinic",
-    "identifier": "urn:oid:2.16.840.1.113883.2.4.6.1:45344478",
-    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2WPuNIh/bGIDDr3CDT6a\n1dj3zRWPsgyCHhyNczXQtNER00TnPmbbPP71KY1xV/zA1nbJZZp0B7hnKDEvL/ED\nNCFzCsjIu5uydrlH4jnY02pGSBIEO+fxBOKLFR2s+Bf91HhJfLj1i+W3mMo3nrLe\nSaghidCIS1REyaTuxpdH2NsoMvuUTrpKA3TJ/43HTKzYUZjPDvJO6bnOybRbr4MB\nF6RCb8YX9R9KvOo2Xiwz6GUjSFgNrWuWV2qk5uSgk0j6pksZUKKrH9s5Tmoipq9v\nE0ZGpgkq0mBxWWExIUBoPuwQwF2spf5dnJpMsaBksd8uA2Vx43hgI/c5ACtOtY7W\noQIDAQAB\n-----END PUBLIC KEY-----"
   }
 ]
