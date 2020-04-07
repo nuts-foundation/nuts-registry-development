@@ -1,0 +1,14 @@
+{
+  "type": "RegisterEndpointEvent",
+  "issuedAt": "2020-04-06T14:44:35.809869125Z",
+  "payload": {
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:41222646",
+    "URL": "https://idp-acc.topicuszorg.nl/auth/realms/Professionals/sso/flows/sso-nuts?client_id=zp-acc",
+    "endpointType": "urn:oid:1.3.6.1.4.1.54851.1:nuts-sso",
+    "identifier": "76e809f3-3f7f-4d77-ae3c-d169e06b083b",
+    "status": "active",
+    "properties": {
+      "authorizationServerURL": "https://nuts-dev.login.topicuszorg.nl/"
+    }
+  }
+}

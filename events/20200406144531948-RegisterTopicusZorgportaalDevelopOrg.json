@@ -1,0 +1,17 @@
+{
+  "type": "VendorClaimEvent",
+  "issuedAt": "2020-04-06T14:45:31.948394598Z",
+  "payload": {
+    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:64768147",
+    "orgIdentifier": "urn:oid:2.16.840.1.113883.2.4.6.1:41222647",
+    "orgName": "Topicus Zorgportaal SSO Demo develop",
+    "orgKeys": [
+      {
+        "e": "AQAB",
+        "kty": "RSA",
+        "n": "sKw39NlmJiIr5AAMQ918n-QDSvPqGkYB021-GlhmXz_AXg3Gs6vECpHrqO3YNv7jTe1ijAQRHRgLJySXw95sMwb5SzJnVEA3e2iEk_WzND2Z0oI9TMnhnv6bhDsazNfsFlYSCQrK_dx918Plkbcbe6lEqBKqSvoLYw-Xt6xndRvOnienBra_69Ecuo-3--yLc4eEyAe5KsBZ678q5zfWOZovMfZG_73oUYQBVxWqINQ5xlFpqhFNS2qgFOerkrsTIu3hkMqSSZgmgCzeEEK96q_3AyblUhHREeZFUAxwqGhUQl7Vv3bNMqVy_5hUQNeRavHkonBVRl_6tFwsIsB6Tw"
+      }
+    ],
+    "start": "2020-04-06T14:45:31.948394156Z"
+  }
+}
