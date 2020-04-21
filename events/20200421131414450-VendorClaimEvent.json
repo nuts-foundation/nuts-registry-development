@@ -1,0 +1,17 @@
+{
+  "type": "VendorClaimEvent",
+  "issuedAt": "2020-04-21T13:14:14.450531468Z",
+  "payload": {
+    "orgIdentifier": "urn:oid:2.16.840.1.113883.2.4.6.1:48000001",
+    "orgKeys": [
+      {
+        "e": "AQAB",
+        "kty": "RSA",
+        "n": "5_FWB6-TJs74iCPuxXzvI-jK0k2n5ogjkCTCazAKps_L8MWYACuzzEFJmqmuk-ZDaPOlA7aELtCaSTLs8tVs7KzpR3DIhiRJE_WMcv3D0AFxBiPAyvg3pgdxPTrFP-e0LnDtKYDSdK8FomggbUG0oBrj1XIxD60pJZYLYNqSaZC7JiSt6e2tbreDpQC28m5EesE_4r46EnVC_isCz_LqpSv1rgLFj7XkjURTlh1WM4uSvJO5z9XonVyGxCdJ9kULSHd1mhF8HvDkaqPARwcZfpwUV2-XpTeZnYzeRChYi31a7blsQCQN7PKSKZ-qRD1qX7YPD3ig7nzkgmEV-JkCsQ"
+      }
+    ],
+    "orgName": "Nedap Development1",
+    "start": "2020-04-21T13:14:14.450530087Z",
+    "vendorIdentifier": "urn:oid:1.3.6.1.4.1.54851.4:08013836"
+  }
+}
