@@ -1,0 +1,14 @@
+{
+  "type": "RegisterEndpointEvent",
+  "issuedAt": "2020-04-27T11:58:36.727361392Z",
+  "payload": {
+    "URL": "https://api-development.ons.io/t/fhir/",
+    "endpointType": "urn:oid:1.3.6.1.4.1.54851.2:nuts-patient-transfer",
+    "identifier": "7b578450-dbf9-49f2-9e2a-4ee9dad3996f",
+    "organization": "urn:oid:2.16.840.1.113883.2.4.6.1:48000000",
+    "properties": {
+      "authorizationServerURL": "https://nuts-development.ons.io/auth/accesstoken"
+    },
+    "status": "active"
+  }
+}
